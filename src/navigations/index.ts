@@ -1,0 +1,5 @@
+/** @format */
+
+///////////////////////////////////Stacks//////////////////////////////////
+
+export {default as HomeStack} from './stacks/HomeStack';
